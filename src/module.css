@@ -1,0 +1,260 @@
+.aaa {
+position: absolute;
+left: 5.56%;
+right: 10.56%;
+top: 2.78%;
+bottom: 93.17%;
+
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 72px;
+line-height: 144.5%;
+/* or 104px */
+letter-spacing: 0.04em;
+
+color: #FFFFFF;
+
+
+};
+.bbb{
+  /* Frame 4 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12.5px;
+
+position: absolute;
+left: 5.56%;
+right: 79.24%;
+top: 7.54%;
+bottom: 91.8%;
+
+background: #EF2A82;
+border-radius: 10px;
+
+
+/* fa-solid:donate */
+
+position: static;
+width: 22px;
+height: 22px;
+left: 19.5px;
+top: 15.5px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Donate Now */
+
+position: static;
+width: 148px;
+height: 28px;
+left: 51.5px;
+top: 12.5px;
+
+font-family: Merriweather;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 138.5%;
+/* identical to box height, or 28px */
+letter-spacing: 0.14em;
+
+color: #FFFFFF;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 10px;
+
+}
+.cc{
+  /* Group 382 */
+
+position: absolute;
+width: 1044.54px;
+height: 439px;
+left: 180px;
+top: 6935px;
+
+
+
+/* Support Us */
+
+position: absolute;
+width: 761.91px;
+height: 64px;
+left: 375.09px;
+top: 6935px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 138.5%;
+/* or 55px */
+text-align: center;
+letter-spacing: 0.14em;
+
+color: #172755;
+
+
+
+/* Frame 5 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12.5px;
+
+position: absolute;
+left: 41.18%;
+right: 40.07%;
+top: 90.08%;
+bottom: 9.27%;
+
+background: #EF2A82;
+border-radius: 10px;
+
+
+/* fa-solid:donate */
+
+position: static;
+width: 22px;
+height: 22px;
+left: 45px;
+top: 15.5px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Donate Now */
+
+position: static;
+width: 148px;
+height: 28px;
+left: 77px;
+top: 12.5px;
+
+font-family: Merriweather;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 138.5%;
+/* identical to box height, or 28px */
+letter-spacing: 0.14em;
+
+color: #FFFFFF;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Group 214 */
+
+position: absolute;
+width: 992px;
+height: 190px;
+left: 180px;
+top: 7111px;
+
+
+
+/* Donar place a crucial role in student’s life.Donar is a person who makes students life colourful with his valuable donations.Donar trust his/her student,donar trust can make a student responsible and committed. */
+
+position: absolute;
+width: 992px;
+height: 190px;
+left: 180px;
+top: 7111px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 21px;
+line-height: 135.5%;
+/* or 28px */
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #8F9BBF;
+
+
+
+/* View more>> */
+
+position: absolute;
+width: 558.49px;
+height: 35px;
+left: 666.05px;
+top: 7206px;
+
+font-family: Merriweather;
+font-style: normal;
+font-weight: normal;
+font-size: 21px;
+line-height: 157%;
+/* or 33px */
+text-align: justify;
+letter-spacing: 0.09em;
+text-decoration-line: underline;
+
+color: #172755;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 48.82%;
+right: 47.71%;
+top: 86.5%;
+bottom: 12.88%;
+
+background: #EF2A82;
+
+}

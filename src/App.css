@@ -1,0 +1,92 @@
+
+
+.s1{
+  /* image 27 */
+
+/* image 27 */
+
+position: absolute;
+left: 55.69%;
+right: 5.76%;
+top: 51.28%;
+bottom: 84.34%;
+
+filter: drop-shadow(20px 20px 80px rgba(0, 0, 0, 0.25));
+border-radius: 20px;
+
+
+}
+.r1{
+  position: absolute;
+  left: 55.69%;
+  right: 5.76%;
+  top: 111.28%;
+  bottom: 84.34%;
+
+  filter: drop-shadow(20px 20px 80px rgba(0, 0, 0, 0.25));
+  border-radius: 20px;
+
+}
+.r2{
+  position: absolute;
+  left: 55.69%;
+  right: 5.76%;
+  top: 211.28%;
+  bottom: 84.34%;
+
+  filter: drop-shadow(20px 20px 80px rgba(0, 0, 0, 0.25));
+  border-radius: 20px;
+
+}
+.r3{
+  position: absolute;
+  left: 55.69%;
+  right: 5.76%;
+  top: 311.28%;
+  bottom: 84.34%;
+
+  filter: drop-shadow(20px 20px 80px rgba(0, 0, 0, 0.25));
+  border-radius: 20px;
+
+}
+.s2{
+  /* image 25 */
+
+position: absolute;
+width: 424px;
+height: 328px;
+left: 706px;
+top: 3000px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 20px;
+
+}
+.s6{
+  height:50px;
+  width:50px;
+}
+
+.c0{
+  /* Career Saathi Program is a selective student support program for meritorious students who come from financially stressed backgrounds. CSP handpicks world-beating minds at young age’s, mentors & assists them with all kinds of support, tracking their growth all along until they’re successfully employed. The support to each child ranges from administering a psychometric test, aiding in admission into the course of their choice, various bridge programs for a medium switch, assistance in applications for higher studies, entrance exams, scholarships and much more, while also equipping with next-gen employability skills. */
+
+position: relative;
+left: 5.56%;
+right: 50.49%;
+top: 11.74%;
+bottom: 115.83%;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 21px;
+line-height: 135.5%;
+/* or 28px */
+letter-spacing: 0.05em;
+
+color: #8F9BBF;
+
+
+}
+
+  

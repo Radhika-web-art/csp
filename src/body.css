@@ -1,0 +1,299 @@
+.maincontainer {
+    text-align: relative;
+    background-color: #F8F9FF;
+    align-items: center;
+    height:3500px;
+  }
+  
+  .p1{
+    /* Career Saathi Program supports mentorship program. It is the one-to-one mentorship where every student would be connected with individual mentor. The connected mentor teaches and guides the students to their goal. */
+  
+ 
+  
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 135%;
+  /* or 28px */
+  letter-spacing: 0.09em;
+  
+  color: #8F9BBF;
+  
+  
+  }
+  .p2{
+    /* Career Saathi Program supports mentorship program. It is the one-to-one mentorship where every student would be connected with individual mentor. The connected mentor teaches and guides the students to their goal. */
+  
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 135%;
+  /* or 28px */
+  letter-spacing: 0.09em;
+  
+  color: #8F9BBF;
+  
+  
+  }
+  .p3{
+    /* Career Saathi Program supports mentorship program. It is the one-to-one mentorship where every student would be connected with individual mentor. The connected mentor teaches and guides the students to their goal. */
+  
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 135%;
+  /* or 28px */
+  letter-spacing: 0.09em;
+  
+  color: #8F9BBF;
+  
+  
+  }
+  .p4{
+    /* Career Saathi Program supports mentorship program. It is the one-to-one mentorship where every student would be connected with individual mentor. The connected mentor teaches and guides the students to their goal. */
+  
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 135%;
+  /* or 28px */
+  letter-spacing: 0.09em;
+  
+  color: #8F9BBF;
+  
+  
+  }
+
+.c1{
+    /* Career Saathi Program conducts residential camps for selected students once in every six months. Various skill development programs like time management, motivational and skill enhacement sessions would be conducted in that. 10 residential camps were conducted till date. */
+ 
+  
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 135%;
+  /* or 28px */
+  text-align: right;
+  letter-spacing: 0.09em;
+  
+  color: #8F9BBF;
+  
+  
+  }
+
+.c2{
+    /* Career Saathi Program conducts residential camps for selected students once in every six months. Various skill development programs like time management, motivational and skill enhacement sessions would be conducted in that. 10 residential camps were conducted till date. */
+  
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 135%;
+  /* or 28px */
+  text-align: right;
+  letter-spacing: 0.09em;
+  
+  color: #8F9BBF;
+  
+  
+  }
+
+.c3{
+    /* Career Saathi Program conducts residential camps for selected students once in every six months. Various skill development programs like time management, motivational and skill enhacement sessions would be conducted in that. 10 residential camps were conducted till date. */
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 135%;
+  /* or 28px */
+  text-align: right;
+  letter-spacing: 0.09em;
+  
+  color: #8F9BBF;
+  
+  
+  }
+  .button{
+    /* Frame 189 */
+   
+   /* Auto Layout */
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   padding: 13px;
+   
+   position: relative;
+   left: 5.56%;
+   right: 82.9%;
+   top: 16.06%;
+   bottom: 83.3%;
+   
+   background: #EF2A82;
+   border-radius: 10px;
+   
+   
+   /* fa-solid:donate */
+   
+   position: relative;
+   display: none;
+   width: 22px;
+   height: 22px;
+   left: 73.88px;
+   top: 378.73px;
+   
+   
+   /* Inside Auto Layout */
+   flex: none;
+   order: 0;
+   flex-grow: 0;
+   margin: 0px 9px;
+   
+   
+   /* Learn more> */
+   
+   position: relative;
+   width: 140px;
+   height: 25px;
+   left: 13.14px;
+   top: 13px;
+   
+   font-family: Poppins;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 18px;
+   line-height: 138.5%;
+   /* identical to box height, or 25px */
+   letter-spacing: 0.14em;
+   
+   color: #FFFFFF;
+   
+   
+   /* Inside Auto Layout */
+   flex: none;
+   order: 1;
+   flex-grow: 0;
+   margin: 0px 9px;
+   
+   }
+
+.button1{
+    /* Career Acceleration Platform For World-Beating Yet UnderPrivileged Students */
+    
+    position: absolute;
+    left: 68.56%;
+    right: 10.56%;
+    top: 2.78%;
+    bottom: 93.17%;
+    height: 25px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    line-height: 144.5%;
+    /* or 104px */
+    letter-spacing: 0.04em;
+    
+    color: #ef2a82;
+    }
+    .button2{
+      /* Career Acceleration Platform For World-Beating Yet UnderPrivileged Students */
+      
+      position: absolute;
+      left: 75.56%;
+      right: 10.56%;
+      top: 2.78%;
+      bottom: 93.17%;
+      height: 25px;
+      
+      font-family: Lato;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 42px;
+      line-height: 144.5%;
+      /* or 104px */
+      letter-spacing: 0.04em;
+      
+      color: #FFFFFF;
+      }
+      .group1{
+        position: relative;
+        width: 1553px;
+        height: 236px;
+        left: 100px;
+        top: 80px;
+      }
+      .group2{
+        position: relative;
+        width: 453px;
+        height: 236px;
+        left: 1000px;
+        top: 100px;
+      }
+      .group3{
+             
+        position: absolute;
+        width: 453px;
+        height: 236px;
+        left: 300px;
+        top: 1300px;
+      }
+
+    .group4{
+        position: absolute;
+        width: 453px;
+        height: 236px;
+        left: 1000px;
+        top: 1700px;
+    }
+    .group5{
+        position: absolute;
+        width: 453px;
+        height: 236px;
+        left: 300px;
+        top: 2050px;
+    }
+    .group6{
+        position: absolute;
+        width: 453px;
+        height: 236px;
+        left: 1000px;
+        top: 2400px;
+    }
+    .group7{
+        position: absolute;
+        width: 453px;
+        height: 236px;
+        left: 300px;
+        top: 2800px;
+  
+    }
+    .group8{
+        position: absolute;
+        width: 453px;
+        height: 56px;
+        left: 1000px;
+        top: 3200px;
+    }
+    .footer{
+        position: absolute;
+        width: 453px;
+        height: 236px;
+        left: 0px;
+        top: 3500px;
+        bottom:0px
+    }
+    .header{
+        position: relative;
+        width: 853px;
+        height: 206px;
+        left: 650px;
+        top: 200px;
+    }
+   
